@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'devise'
 
 gem 'rails', '4.2.7'
 gem 'sqlite3'
@@ -17,6 +18,7 @@ gem 'bootstrap-sass', '~> 3.2', '>= 3.2.0.2'
 gem 'simple_form', '~> 3.4'
 
 gem 'sdoc', '~> 0.4.0', group: :doc
+gem 'therubyracer'
 
 
 
