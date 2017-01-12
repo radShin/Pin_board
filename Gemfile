@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'devise'
+gem 'paperclip'
 
 gem 'rails', '4.2.7'
 gem 'sqlite3'
