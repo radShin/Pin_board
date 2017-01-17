@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'devise'
 gem 'paperclip'
 gem 'masonry-rails'
-
+gem 'acts_as_votable', '~> 0.10.0'
 gem 'rails', '4.2.7'
 gem 'sqlite3'
 gem 'sass-rails', '~> 5.0'
